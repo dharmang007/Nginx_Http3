@@ -12,5 +12,5 @@ The script is only for ubuntu
 ## Steps
 - Extract the files into /home/<user>
 - Run setup.py
-- Replace the given nginx.conf in nginx.1.16.1/configure folder
 - Run sudo make install
+- Replace the given nginx.conf in nginx.1.16.1/configure folder
