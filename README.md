@@ -3,6 +3,8 @@ Automated Build Script for Nginx with HTTP/3
 The script is only for ubuntu
 
 ## Dependencies which must be installed
+- Python3
+- gitpython
 - zlib-1.2.11
 - golang
 - rust
