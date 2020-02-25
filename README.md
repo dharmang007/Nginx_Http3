@@ -10,7 +10,8 @@ The script is only for ubuntu
 - rust
 
 ## Steps
-- Extract the files into /home/<user>
+- Extract the files into /home/<user> directory
+- Install zlib-1.2.11 in /home/<user> directory
 - Run setup.py
 - Run sudo make install
 - Replace the given nginx.conf in nginx.1.16.1/configure folder
